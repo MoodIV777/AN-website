@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Personal Website",
+  "description": "A minimal personal website with a masonry layout, built with React and Vite.",
+  "requestFramePermissions": []
+}
