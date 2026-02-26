@@ -1,7 +1,7 @@
 ---
 title: About Me
 ---
-An AI data product specialist with dual backgrounds in Data Science and Information Systems Management.
+A seeker of AI and truth.
 
 I aspire to build AI-powered products that bridge the gap between deep technology and tangible business value — creating intelligent systems that truly understand and serve their users.
 
