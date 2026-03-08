@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Alex Nie - Personal Website
 
-# Run and deploy your AI Studio app
+A minimalist, markdown-driven personal website built with React, Vite, and Tailwind CSS. 
+Designed to showcase projects, professional experience, and long-form insights in a clean, distraction-free environment.
 
-This contains everything you need to run your app locally.
+## Features
+- **Markdown Content:** All content (About, Projects, Insights) is managed via simple `.md` files in the `/content` directory.
+- **Dynamic Routing:** React Router dynamically generates detail pages for long-form reading.
+- **Minimalist Aesthetic:** Clean typography, subtle animations, and a focus on content.
+- **Automated Deployment:** Integrated with GitHub Actions for seamless deployment to GitHub Pages.
 
-View your app in AI Studio: https://ai.studio/apps/e2535908-13d5-4da2-800d-2b44a52142eb
+## Managing Content
+- **About:** Edit `/content/about.md`
+- **Projects:** Add markdown files to `/content/projects/`
+- **Insights:** Add markdown files to `/content/insights/` (Use standard `![alt](.../path)` syntax for images, placing assets in `/public/images/`)
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
+## Local Development
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+2. Start the development server:
+   ```bash
+   npm run dev
+   ```
+3. Build for production:
+   ```bash
+   npm run build
+   ```
+
+*View the live site at: [https://moodiv777.github.io/AN-website/](https://moodiv777.github.io/AN-website/)*
