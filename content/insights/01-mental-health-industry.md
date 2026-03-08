@@ -246,13 +246,13 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 - **性别分布**
   - 男女比例及特征差异
 
-<img src="D:\心理疗愈行研\行研草稿\assets\用户性别分布.png" alt="用户性别分布" style="zoom:125%;" />
+<img src="./images/mental-health/用户性别分布.png" alt="用户性别分布" style="zoom:125%;" />
 
 - **年龄结构**
   - 年龄段分布
   - 不同年龄段的心理需求差异
 
-<img src="D:\心理疗愈行研\行研草稿\assets\用户年龄段分布.png" alt="用户年龄段分布" style="zoom:125%;" />
+<img src="./images/mental-health/用户年龄段分布.png" alt="用户年龄段分布" style="zoom:125%;" />
 
 - **生活阶段与社会角色**
   - 学生、打工人、恋爱、家庭等生活阶段分布
@@ -261,7 +261,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 ![主要生活阶段分布](./images/mental-health/主要生活阶段分布.png)
 
-<img src="D:\心理疗愈行研\行研草稿\assets\常见生活阶段组合.png" alt="常见生活阶段组合" style="zoom:125%;" />
+<img src="./images/mental-health/常见生活阶段组合.png" alt="常见生活阶段组合" style="zoom:125%;" />
 
 ![主要社会角色分布](./images/mental-health/主要社会角色分布.png)
 
@@ -271,9 +271,9 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 性别×年龄×角色组合模式
   - 高风险群体特征识别
 
-![性别 x 年龄分布图](./images/mental-health/性别 x 年龄分布图.png)
+![性别 x 年龄分布图](./images/mental-health/性别_x_年龄分布图.png)
 
-![性别 x 主要角色分布图](./images/mental-health/性别 x 主要角色分布图.png)
+![性别 x 主要角色分布图](./images/mental-health/性别_x_主要角色分布图.png)
 
 **核心发现摘要**：
 
@@ -345,7 +345,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 2017-2025年求助量变化趋势
   - 不同严重程度问题的年度演变
 
-<img src="D:\心理疗愈行研\行研草稿\assets\谷歌全球心理健康搜索指数.png" alt="谷歌全球心理健康搜索指数" style="zoom:150%;" />
+<img src="./images/mental-health/谷歌全球心理健康搜索指数.png" alt="谷歌全球心理健康搜索指数" style="zoom:150%;" />
 
 ![百度全国热度趋势](./images/mental-health/百度全国热度趋势.png)
 
@@ -357,7 +357,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 求助高峰月份识别（如3月、8月、11月）
   - 季节性规律与心理健康关联
 
-<img src="D:\心理疗愈行研\行研草稿\assets\月度求助分布.png" alt="月度求助分布" style="zoom:125%;" />
+<img src="./images/mental-health/月度求助分布.png" alt="月度求助分布" style="zoom:125%;" />
 
 - **星期模式**
   - 工作日 vs 周末求助行为差异
