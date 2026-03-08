@@ -31,7 +31,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 ### 心理疗愈发展历史
 
-![image-20251016193209410](/images/mental-health/mentel_treatment_development.png)
+![image-20251016193209410](./images/mental-health/mentel_treatment_development.png)
 
 *艾瑞咨询-2025年中国情绪疗愈行业研究报告*
 
@@ -39,7 +39,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 心理疗愈服务产业链是一个复杂而多元的生态系统，它围绕着“维护、提升和恢复个体心理健康”这一核心需求，形成了从理论研究支撑端到各项服务供给端，再到最终消费端的完整链条。
 
-![mentalhealth_servicechain](/images/mental-health/mentelhealth_servicechain.png)
+![mentalhealth_servicechain](./images/mental-health/mentelhealth_servicechain.png)
 
 ### 全球/国内心理疗愈市场规模与增长情况
 
@@ -133,7 +133,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
    - 家人、朋友和同事的支持对心理健康有显著的积极影响。年轻人更倾向于与朋友分享担忧和寻求同伴支持，而非依赖传统医疗专业人员。
    - 对于青少年而言，亲子沟通频率越高、师生和同伴关系越好，其心理健康风险（如抑郁和焦虑）越低，这表明现实中的人际支持系统是重要的保护因素。
 
-![人群心理疗愈手段调研图](/images/mental-health/人群心理疗愈手段调研图.png)
+![人群心理疗愈手段调研图](./images/mental-health/人群心理疗愈手段调研图.png)
 
 *艾瑞咨询-2025年中国情绪疗愈行业研究报告*
 
@@ -153,7 +153,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 通往**超级智能（ASI）**的道路并非一蹴而就，而是遵循着一个从学习、行动到创造的演进蓝图。这条路始于**统计机器学习时代**，彼时AI如同一个学徒，只能在人类的严格指导下完成特定任务。随着深度学习革命的到来，我们进入了**第一阶段“智能涌现”**，AI通过消化整个互联网的知识，成长为一个博学的“大脑”。紧接着，**第二阶段“自主行动”**为其装上了“手脚”，让这个大脑能调用工具去执行命令、完成工作。最终，**第三阶段“自我迭代”**将赋予AI自我完善的“意识”，使其能够独立地从经验中学习和进化，最终在智慧的广度与深度上超越其创造者。
 
-![AI_progress_flow](/images/mental-health/AI_progress_flow.png)
+![AI_progress_flow](./images/mental-health/AI_progress_flow.png)
 
 **总结：范式转移的核心**
 
@@ -174,11 +174,11 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 *波澜壮壮阔的多模态大语言模型（M-LLM）技术爆炸的宏伟画卷：*
 
-![image-20251016140438076](/images/mental-health/LLM-1.png)
+![image-20251016140438076](./images/mental-health/LLM-1.png)
 
 *https://arxiv.org/pdf/2306.13549*
 
-![papers.png](/images/mental-health/papers.png)
+![papers.png](./images/mental-health/papers.png)
 
 *https://github.com/AIDC-AI/Awesome-Unified-Multimodal-Models?tab=readme-ov-file*
 
@@ -259,21 +259,21 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 职业/生活状态与心理困扰的关联
   - 未婚无对象群体的风险特征
 
-![主要生活阶段分布](/images/mental-health/主要生活阶段分布.png)
+![主要生活阶段分布](./images/mental-health/主要生活阶段分布.png)
 
 <img src="D:\心理疗愈行研\行研草稿\assets\常见生活阶段组合.png" alt="常见生活阶段组合" style="zoom:125%;" />
 
-![主要社会角色分布](/images/mental-health/主要社会角色分布.png)
+![主要社会角色分布](./images/mental-health/主要社会角色分布.png)
 
-![常见社会角色组合](/images/mental-health/常见社会角色组合.png)
+![常见社会角色组合](./images/mental-health/常见社会角色组合.png)
 
 - **交叉人口学分析**
   - 性别×年龄×角色组合模式
   - 高风险群体特征识别
 
-![性别 x 年龄分布图](/images/mental-health/性别 x 年龄分布图.png)
+![性别 x 年龄分布图](./images/mental-health/性别 x 年龄分布图.png)
 
-![性别 x 主要角色分布图](/images/mental-health/性别 x 主要角色分布图.png)
+![性别 x 主要角色分布图](./images/mental-health/性别 x 主要角色分布图.png)
 
 **核心发现摘要**：
 
@@ -291,11 +291,11 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 个人成长、亲密关系、职场发展、学业压力等占比
   - 问题域组合特征（主要+次要问题域关联）
 
-![domain_distribution](/images/mental-health/domain_distribution.png)
+![domain_distribution](./images/mental-health/domain_distribution.png)
 
-![image-20251030181138011](/images/mental-health/常见问题域组合.png)
+![image-20251030181138011](./images/mental-health/常见问题域组合.png)
 
-![image-20251030180751084](/images/mental-health/主要问题域x次要问题域.png)
+![image-20251030180751084](./images/mental-health/主要问题域x次要问题域.png)
 
 - **心理问题严重程度**
   - 🔴红色·高度痛苦/危机：占比及特征
@@ -303,11 +303,11 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 🟢绿色·轻微困扰：占比及特征
   - 严重程度与年龄、角色的关联分析
 
-![severity_distribution](/images/mental-health/severity_distribution.png)
+![severity_distribution](./images/mental-health/severity_distribution.png)
 
-![image-20251030184246649](/images/mental-health/严重程度x年龄段.png)
+![image-20251030184246649](./images/mental-health/严重程度x年龄段.png)
 
-![image-20251030184711897](/images/mental-health/严重程度x性别.png)
+![image-20251030184711897](./images/mental-health/严重程度x性别.png)
 
 #### 3.2 核心诉求类型
 
@@ -315,7 +315,7 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 - 不同诉求类型的用户特征画像
 - 诉求与问题域的匹配关系
 
-![core_needs_distribution](/images/mental-health/core_needs_distribution.png)
+![core_needs_distribution](./images/mental-health/core_needs_distribution.png)
 
 用户诉求与问题域数据图像较为繁杂，不在此处展示，详见附录部分。
 
@@ -325,11 +325,11 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 - 依恋创伤、情绪调节困难、认知失调等核心概念分布
 
-![psych_concept_top15](/images/mental-health/psych_concept_top15.png)
+![psych_concept_top15](./images/mental-health/psych_concept_top15.png)
 
 - 对标艾瑞咨询心理行业调研：抑郁、焦虑、原生家庭问题检出率
 
-![benchmark_comparison](/images/mental-health/benchmark_comparison.png)
+![benchmark_comparison](./images/mental-health/benchmark_comparison.png)
 
 **核心发现摘要**：
 
@@ -347,9 +347,9 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
 
 <img src="D:\心理疗愈行研\行研草稿\assets\谷歌全球心理健康搜索指数.png" alt="谷歌全球心理健康搜索指数" style="zoom:150%;" />
 
-![百度全国热度趋势](/images/mental-health/百度全国热度趋势.png)
+![百度全国热度趋势](./images/mental-health/百度全国热度趋势.png)
 
-![yearly_trend](/images/mental-health/yearly_trend.png)
+![yearly_trend](./images/mental-health/yearly_trend.png)
 
 
 
@@ -363,14 +363,14 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 工作日 vs 周末求助行为差异
   - 不同严重程度在时间上的分布特征
 
-![weekday_patterns](/images/mental-health/weekday_patterns.png)
+![weekday_patterns](./images/mental-health/weekday_patterns.png)
 
 - **问题域时间特征**
   - 不同问题类型的时间分布热力图
 
-![image-20251030212128181](/images/mental-health/主次要问题域x月份.png)
+![image-20251030212128181](./images/mental-health/主次要问题域x月份.png)
 
-![image-20251030211711293](/images/mental-health/主次问题域x年份.png)
+![image-20251030211711293](./images/mental-health/主次问题域x年份.png)
 
 #### 4.2 互动质量分析
 
@@ -378,56 +378,56 @@ summary: "A deep dive into China's mental health services market (¥1,336.8B in 
   - 平均回答数、有用数统计
   - 用户参与率分析
 
-![interaction_overview](/images/mental-health/interaction_overview.png)
+![interaction_overview](./images/mental-health/interaction_overview.png)
 
 - **问题域互动质量**
   - 哪些问题更容易获得回应
   - 哪些问题获得更多有用反馈
 
-![domain_interaction_heatmap](/images/mental-health/domain_interaction_heatmap.png)
+![domain_interaction_heatmap](./images/mental-health/domain_interaction_heatmap.png)
 
 - **核心诉求互动**
   - 不同诉求类型的互动效果对比
 
-![core_need_interaction](/images/mental-health/core_need_interaction.png)
+![core_need_interaction](./images/mental-health/core_need_interaction.png)
 
 - **严重程度互动**
   - 高危用户是否获得足够支持
   - 互动质量与严重程度的关联
 
-![severity_interaction](/images/mental-health/severity_interaction.png)
+![severity_interaction](./images/mental-health/severity_interaction.png)
 
 - **交叉维度分析**
   - 严重程度×核心诉求组合
   - 问题域×核心诉求组合
   - 次要问题域分析
 
-![severity_need_combination](/images/mental-health/severity_need_combination.png)
+![severity_need_combination](./images/mental-health/severity_need_combination.png)
 
-![domain_need_combination](/images/mental-health/domain_need_combination.png)
+![domain_need_combination](./images/mental-health/domain_need_combination.png)
 
-![secondary_domains_interaction](/images/mental-health/secondary_domains_interaction.png)
+![secondary_domains_interaction](./images/mental-health/secondary_domains_interaction.png)
 
 #### 4.3 内容特征分析
 
 - **关键词特征**
   - 高频关键词TOP 100词云
 
-![keyword_wordcloud](/images/mental-health/keyword_wordcloud.png)
+![keyword_wordcloud](./images/mental-health/keyword_wordcloud.png)
 
 - **分层关键词**
   - 不同严重程度群体的语言表达特征
   - 高危预警关键词识别
 
-![keyword_severity_wordclouds](/images/mental-health/keyword_severity_wordclouds.png)
+![keyword_severity_wordclouds](./images/mental-health/keyword_severity_wordclouds.png)
 
 - **关键词关联分析**
   - 关键词×核心诉求热力图
   - 关键词×严重程度热力图
 
-![image-20251101134404654](/images/mental-health/关键词x核心诉求.png)
+![image-20251101134404654](./images/mental-health/关键词x核心诉求.png)
 
-![image-20251101135036690](/images/mental-health/关键词x严重程度.png)
+![image-20251101135036690](./images/mental-health/关键词x严重程度.png)
 
 - **内容价值分析**
   - 内容质量分布
