@@ -1,0 +1,28 @@
+# Website Preview Walkthrough
+
+Dev server running at `http://localhost:3000/`
+
+## Insight Detail Pages (New Feature)
+Clicking on an Insight card's title now navigates to a dedicated reading page. The page preserves the site's minimalist aesthetic, beautifully renders the full Markdown content of the research articles, and includes a "Back to Insights" button.
+
+![Insight Detail Top](file:///C:/Users/ASUS/.gemini/antigravity/brain/381aa514-9a77-4b13-bbda-b6fc0cf91ff9/insight_detail_top_1772941196195.png)
+
+At the bottom of each full-length article, a non-commercial license footer has been added as requested:
+![Insight Detail Bottom](file:///C:/Users/ASUS/.gemini/antigravity/brain/381aa514-9a77-4b13-bbda-b6fc0cf91ff9/insight_detail_bottom_1772941218001.png)
+
+**Browser Subagent Recording:**
+![Insight Detail Navigation Recording](file:///C:/Users/ASUS/.gemini/antigravity/brain/381aa514-9a77-4b13-bbda-b6fc0cf91ff9/insight_detail_verified_1772941156635.webp)
+
+---
+
+## About Page
+![About Page](about_page_final_1772127879906.png)
+
+## Projects Page
+![Projects Page](projects_page_final_v2_1772127886712.png)
+
+## Frontmatter Bug Fix
+Fixed frontmatter parsing in [markdown.ts](file:///d:/Project%20&%20Data/minimal-personal-website/src/utils/markdown.ts) — the regex used `\n` but Windows files have `\r\n` endings, causing raw YAML metadata to render as card text.
+
+**Initial Website Preview Recording:**
+![Website Preview Recording](website_fixed_preview_1772127839546.webp)
