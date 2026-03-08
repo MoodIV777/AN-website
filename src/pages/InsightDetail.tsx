@@ -24,16 +24,28 @@ export function InsightDetail() {
                 <h1 className="text-3xl md:text-4xl font-medium text-gray-900 tracking-tight leading-tight mb-4">
                     {doc.title}
                 </h1>
-                <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500">
-                    {doc.date && <time dateTime={doc.date} className="font-mono">{doc.date}</time>}
-                    {doc.tags && doc.tags.length > 0 && (
-                        <div className="flex gap-2">
-                            {doc.tags.map(tag => (
-                                <span key={tag} className="px-2 py-0.5 bg-gray-50 rounded text-xs border border-gray-100">
-                                    {tag}
-                                </span>
-                            ))}
-                        </div>
+
+                <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
+                    <div className="flex flex-wrap items-center gap-4 text-sm text-gray-500">
+                        {doc.date && <time dateTime={doc.date} className="font-mono">{doc.date}</time>}
+                        {doc.tags && doc.tags.length > 0 && (
+                            <div className="flex gap-2">
+                                {doc.tags.map(tag => (
+                                    <span key={tag} className="px-2 py-0.5 bg-gray-50 rounded text-xs border border-gray-100">
+                                        {tag}
+                                    </span>
+                                ))}
+                            </div>
+                        )}
+                    </div>
+
+                    {doc.translation && (
+                        <Link
+                            to={`/insights/${doc.translation}`}
+                            className="inline-flex items-center self-start sm:self-auto px-4 py-1.5 text-xs font-medium text-gray-600 bg-gray-100/80 hover:bg-gray-200 hover:text-gray-900 rounded-full transition-colors border border-transparent backdrop-blur-sm"
+                        >
+                            {doc.slug.endsWith('-en') ? "阅读中文版" : "Read in English"}
+                        </Link>
                     )}
                 </div>
             </div>

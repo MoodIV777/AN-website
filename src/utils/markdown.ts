@@ -3,6 +3,7 @@ export interface MarkdownDoc {
   type: 'about' | 'project' | 'insight';
   title: string;
   summary?: string;
+  translation?: string;
   date?: string;
   tags?: string[];
   content: string;
@@ -36,6 +37,7 @@ export function parseMarkdown(raw: string, path: string): MarkdownDoc {
     type,
     title: data.title || slug,
     summary: data.summary,
+    translation: data.translation,
     date: data.date,
     tags: data.tags ? data.tags.split(',').map(t => t.trim()) : [],
     content,
