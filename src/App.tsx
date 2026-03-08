@@ -4,6 +4,8 @@ import { About } from './pages/About';
 import { Projects } from './pages/Projects';
 import { Insights } from './pages/Insights';
 
+import { InsightDetail } from './pages/InsightDetail';
+
 export default function App() {
   return (
     <HashRouter>
@@ -15,6 +17,7 @@ export default function App() {
               <Route path="/" element={<About />} />
               <Route path="/projects" element={<Projects />} />
               <Route path="/insights" element={<Insights />} />
+              <Route path="/insights/:slug" element={<InsightDetail />} />
             </Routes>
           </main>
         </div>
